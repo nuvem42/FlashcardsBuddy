@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria",
+        "topic": "Biology",
+        "difficulty": "medium"
+    },
+    {
+        "id": 2,
+        "question": "What is the derivative of x^2?",
+        "answer": "2x",
+        "topic": "Math",
+        "difficulty": "easy"
+    }
+]

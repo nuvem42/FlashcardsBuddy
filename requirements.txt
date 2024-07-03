@@ -1,0 +1,4 @@
+kivy
+kivy-garden
+json
+random
